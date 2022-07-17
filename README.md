@@ -1,0 +1,1 @@
+this is a weather app build using open weathe api. through javascript. if need to write the name of the place to get a weather report. And if you click on any point of the webpage body, other than the report card, the weather report section will vanish
